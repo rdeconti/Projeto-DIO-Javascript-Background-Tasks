@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 # Projeto Digital Innovation One Javascript
-# Projeto Web utilizando a API Coin Market Cap
+# Projeto Web: Cadastro de Usuário com envio de e-mail de confirmação
 Este projeto foi proposto pela Digital Innovation One 
 - Link do código original: https://github.com/robertosousa1/background-jobs-class-by-dio
 - Professor: Roberto Alves
