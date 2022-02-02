@@ -5,9 +5,8 @@
 # Projeto Digital Innovation One Javascript
 # Projeto Web: Cadastro de Usuário com envio de e-mail de confirmação
 Este projeto foi proposto pela Digital Innovation One 
-- Link do código original: https://github.com/robertosousa1/background-jobs-class-by-dio
-- Professor: Roberto Alves
-- Aula: https://web.digitalinnovation.one/lab/tarefas-em-background-utilizando-nodejs-e-redis/learning/ab4acbff-646d-41dd-b1ac-c8409dc67c4d
+- Link do código original: https://web.dio.me/lab/criando-um-banco-digital-com-java-e-orientacao-objetos/learning/1f5144ac-ae5d-4a25-a8cd-dd36cdbd0809
+- Professor: Venilton
 
 # Descrição
-Nesse Labs você deve desenvolver e entregar um projeto de “Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background utilizando Node.js” ao qual você praticará e aplicará os conceitos de processamento assíncrono de tarefas utilizando Node.js e Redis. Demonstre toda sua capacidade criativa para transformar a base do projeto apresentada nesta sessão em um desenvolvimento inovador.
+Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de referência (disponibilizado no GitHub) de forma prática e interativa. Sendo assim, você poderá desenvolver sua capacidade de abstração reproduzindo essa solução. Além disso, caso queira ir além, implemente suas próprias evoluções e melhorias ;-)
